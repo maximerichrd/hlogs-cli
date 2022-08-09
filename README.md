@@ -15,3 +15,9 @@ Currently only working on MacOS.
 # Security
 
 - ensure your VPN is active (as usual for logs)
+
+# Layout suggestion
+
+- For improved layout with fzf, you may add in your `.zshrc` or `.bashrc` the following
+
+`export FZF_DEFAULT_OPTS='--height 50% --layout=reverse'`
